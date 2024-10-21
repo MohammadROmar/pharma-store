@@ -1,21 +1,14 @@
-<<<<<<< HEAD
-# programming-languages
-Programming Language project
-=======
-# project
+# PharmaStore
 
-A new Flutter project.
+A Medication Warehouse application.
 
-## Getting Started
+A mobile application made with **Flutter** to **automate the process of distributing medications** from the producer directly to the customer.
 
-This project is a starting point for a Flutter application.
+The customer can **preview and order** existing medications with ease.
+The customer can also preview the state of the order(shipped, confirmed, delivered).
 
-A few resources to get you started if this is your first Flutter project:
+## Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> fef7b8e (Initial commit)
+- Authentication & Authorization.
+- Data fetching and mutating with http package.
+- Localization(Using multiple languages).
